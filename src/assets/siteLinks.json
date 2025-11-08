@@ -1,37 +1,32 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Compass",
+    "name": "NodeLoc",
+    "link": "https://www.nodeloc.com/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://vvpp.cc/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "Mail",
+    "link": "https://mail.loc.cc/"
+  },
+  {
+    "icon": "Compass",
+    "name": "VPS",
+    "link": "https://freex.nodeloc.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "域名",
+    "link": "https://free.nodeloc.com/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Compass",
+    "name": "NodeLoc",
+    "link": "https://www.nodeloc.com/"
   }
 ]
